@@ -24,12 +24,13 @@ Monetary Policy, Empirical Macroeconomics, Applied Microeconomics, and Public Ec
 
 ### Publications
 
+
 <details>
 <summary markdown="span"><b>US Credit Spillovers to Small Open Economies: A Proxy-VAR Approach</b>
 [<i>click for abstract</i>]
 <br />
 with <a href="https://sites.google.com/site/natsukiarai25/home?authuser=0" target="_blank">Natsuki Arai</a> <br />
-&ndash; <b><i>Hitotsubashi Journal of Economics</i></b>, 66 (1), pp. 46–60, 2025
+&ndash; <b><i>Hitotsubashi Journal of Economics</i></b> 2025, 66:1, 46–60
 </summary>
 
 | **Abstract** |
@@ -38,6 +39,22 @@ with <a href="https://sites.google.com/site/natsukiarai25/home?authuser=0" targe
 
 </details>
 <a href="https://doi.org/10.15057/hje.2025003" target="_blank">Published Paper</a> &nbsp;
+
+
+<details>
+<summary markdown="span"><b>Introductory Economics: Gender, Majors, and Future Performance</b>
+[<i>click for abstract</i>]
+<br />
+with <a href="https://sites.google.com/site/natsukiarai25/home?authuser=0" target="_blank">Natsuki Arai</a> and <a href="https://ib.nccu.edu.tw/en/Members/BIING-SHEN-KUO-45627858" target="_blank">Biing-Shen Kuo <br />
+&ndash; <b><i>Taiwan Economic Forecast and Policy</i></b>, 2024, 54:2, 45–68
+</summary>
+
+| **Abstract** |
+| :--- |
+| By  investigating  the  exam  scores  of  introductory  economics  classes  in the  business  school  at  National  Chengchi  University  in  Taiwan  between 2008  and  2019,  we  find  three  sets  of  results:  First,  we  find  no  significant difference  between  genders  in  the  exam  scores.  Second,  students’  majors are  significantly  associated  with  their  exam  scores,  which  likely  reflects  their academic  ability  measured  at  college  admission.  Third,  the  exam  scores  are strong predictors of students’ future academic performance. |
+
+</details>
+<a href="https://www.econ.sinica.edu.tw/pdfjs/full?file=/1/archives/3d2cda178fec0f69#zoom=115&pagemode=thumbs" target="_blank">Published Paper</a> &nbsp;
 
 ---
 
