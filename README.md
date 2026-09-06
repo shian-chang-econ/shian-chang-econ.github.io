@@ -61,10 +61,42 @@ with <a href="https://sites.google.com/site/natsukiarai25/home?authuser=0" targe
 ### Working Papers
 
 <details>
+<summary markdown="span"><b>Mortgage Credit Expansion and Housing Purchase Prices: Evidence from Borrower-Level Administrative Data in Taiwan</b>
+[<i>click for abstract</i>]
+<br />
+<br />
+with <a href="https://sites.google.com/view/cpelab/" target="_blank">Tzu-Ting Yang</a> <br />
+</summary>
+
+| **Abstract** |
+| :--- |
+| This paper studies how expanding mortgage credit affects housing purchases, exploiting Taiwan’s 2023 reform of the Youth Preferential Housing Loan program, which raised the maximum loan limit by 25%. Using matched administrative data and a difference-in-differences design, we find treated borrowers increased loan amounts by 13.4% and purchase prices by 17.9%, implying a demand elasticity of 1.34. The reform also shifted purchases toward premium urban locations and disproportionately benefited credit-constrained borrowers—women, non-college-educated individuals, and younger buyers—enabling them to obtain larger loans and purchase more expensive homes.  |
+
+</details>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7152538" target="_blank">Working Paper</a> &nbsp;
+
+
+<details>
+<summary markdown="span"><b>The Effects of Loan-to-Value Limits on Mortgage Lending and Housing Purchase: Evidence from Taiwan </b>
+[<i>click for abstract</i>]
+<br />
+<br />
+with <a href="https://sites.google.com/view/cpelab/" target="_blank">Tzu-Ting Yang</a> <br />
+</summary>
+
+| **Abstract** |
+| :--- |
+| This paper examines the effect of loan-to-value ratio ceilings on mortgage lendingand housing purchase decisions. We exploit a sudden tightening of LTV restrictionsin Taiwan in December 2020, which imposed a maximum LTV ratio of 60 percent onborrowers whose newly originated mortgage was their third or subsequent loan. Usingloan-borrower matched administrative data, we implement a difference-in-differencesdesign that compares third-mortgage borrowers with second-mortgage borrowers be-fore and after the policy change. We find that the policy significantly reduced LTV ra-tios by 10.5% relative to the pre-reform baseline. Housing purchase prices fell by 5.8%,implying an elasticity of purchase prices with respect to LTV ratios of approximately0.55. Heterogeneity analysis shows that the effects of the LTV limits on housing pur-chase prices were concentrated among borrowers with lower educational attainment, agroup more likely to face liquidity constraints.  |
+
+</details>
+<a href="[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7152538](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7023081)" target="_blank">Working Paper</a> &nbsp;
+
+
+<details>
 <summary markdown="span"><b>Dispersion of FOMC Policymakers' Views: Evidence from the New Individual Economic Projections</b>
 [<i>click for abstract</i>]
 <br />
-with Natsuki Arai
+with <a href="https://sites.google.com/site/natsukiarai25/home?authuser=0" target="_blank">Natsuki Arai</a> <br />
 </summary>
 
 | **Abstract** |
@@ -74,6 +106,21 @@ with Natsuki Arai
 </details>
 <a href="https://www2.gwu.edu/~forcpgm/2025-003.pdf" target="_blank">Working Paper</a> &nbsp;
 
+
+
+<details>
+<summary markdown="span"><b>The Effect of Capital Gains Taxation on Housing Sales: Evidence from Taiwan</b>
+[<i>click for abstract</i>]
+<br />
+with <a href="https://sites.google.com/view/cpelab/" target="_blank">Tzu-Ting Yang</a> and <a href="https://jiandazhu.github.io/">Jian-Da Zhu <br />
+</summary>
+
+| **Abstract** |
+| :--- |
+| This paper uses a difference-in-differences framework to examine the impact of Taiwan’s 2016 tax reform on the housing market. The empirical results show that the implementation of the capital gains tax reduced capital gains, rates of return, and the proportion of transactions with positive gains, indicating a lock-in effect for transactions with high potential gains. In contrast, between the announcement and implementation, capital gains increased as sellers with high potential gains tended to sell their properties before the implementation. Finally, at the time of the tax regime change, capital gains sharply declined, reflecting sellers’ self-selection behavior: those with high gains sold before the reform, while those with lower gains waited until after 2016. |
+
+</details>
+<a href="https://jiandazhu.github.io/doc/CapitalGain.pdf" target="_blank">Working Paper</a> &nbsp;
 
 
 ---
