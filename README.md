@@ -38,7 +38,6 @@ with <a href="https://sites.google.com/site/natsukiarai25/home?authuser=0" targe
 
 </details>
 <a href="https://doi.org/10.15057/hje.2025003" target="_blank">Published Paper</a> &nbsp;
-<a href="https://hit-u.repo.nii.ac.jp/records/2060903" target="_blank">Open-access Version</a> &nbsp;
 
 ---
 
