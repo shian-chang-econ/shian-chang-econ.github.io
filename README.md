@@ -87,7 +87,7 @@ with <a href="https://sites.google.com/view/cpelab/" target="_blank">Tzu-Ting Ya
 | This paper examines the effect of loan-to-value ratio ceilings on mortgage lendingand housing purchase decisions. We exploit a sudden tightening of LTV restrictionsin Taiwan in December 2020, which imposed a maximum LTV ratio of 60 percent onborrowers whose newly originated mortgage was their third or subsequent loan. Usingloan-borrower matched administrative data, we implement a difference-in-differencesdesign that compares third-mortgage borrowers with second-mortgage borrowers be-fore and after the policy change. We find that the policy significantly reduced LTV ra-tios by 10.5% relative to the pre-reform baseline. Housing purchase prices fell by 5.8%,implying an elasticity of purchase prices with respect to LTV ratios of approximately0.55. Heterogeneity analysis shows that the effects of the LTV limits on housing pur-chase prices were concentrated among borrowers with lower educational attainment, agroup more likely to face liquidity constraints.  |
 
 </details>
-<a href="[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7152538](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7023081)" target="_blank">Working Paper</a> &nbsp;
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7023081" target="_blank">Working Paper</a> &nbsp;
 
 
 <details>
