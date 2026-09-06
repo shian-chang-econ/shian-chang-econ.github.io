@@ -1,25 +1,32 @@
-### Welcome!
+## Welcome!
 
-I am Shian Chang.
+I am a PhD Candidate in Economics at National Taiwan University.
 
-My research interests are Economics.
-
----
-
-### Curriculum Vitae
-
-CV coming soon.
+My research interests include **Monetary Policy**, **Empirical Macroeconomics**, **Applied Microeconomics**, and **Public Economics**.
 
 ---
 
-### Research
+## Curriculum Vitae
 
-#### Working Papers
-
-Research projects coming soon.
+My curriculum vitae is available [here](#).
 
 ---
 
-### Teaching
+## Research
 
-Teaching information coming soon.
+### Research Interests
+
+- Monetary Policies
+- Empirical Macroeconomics
+- Applied Microeconomics
+- Public Economics
+
+### Working Papers
+
+Research projects will be added here.
+
+---
+
+## Teaching
+
+Teaching information will be added here.
