@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta charset="UTF-8">
+
+  <title>{{ site.title }}</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ site.description }}">
+
+  <link rel="stylesheet"
+        href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+</head>
+
+<body>
+
+  <div class="wrapper">
+
+    <header>
+
+      <h1>
+        <a href="{{ '/' | absolute_url }}">
+          {{ site.title }}
+        </a>
+      </h1>
+
+      {% if site.logo %}
+      <img src="{{ site.logo | relative_url }}"
+           alt="Photo of {{ site.title }}"
+           style="width:230px; max-width:100%;">
+      {% endif %}
+
+      <p>{{ site.description }}</p>
+
+      <p>
+
+        {% if site.affiliation and site.affiliation != "" %}
+        <strong>Affiliation</strong><br>
+        {{ site.affiliation }}<br>
+        {% endif %}
+
+        {% if site.department and site.department != "" %}
+        {{ site.department }}<br>
+        {% endif %}
+
+      </p>
+
+      {% if site.email and site.email != "" %}
+      <p>
+        <strong>E-mail</strong><br>
+        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      </p>
+      {% endif %}
+
+      <p>
+        <strong>Links</strong><br>
+
+        {% if site.google_scholar and site.google_scholar != "" %}
+        <a href="{{ site.google_scholar }}" target="_blank">
+          Google Scholar
+        </a>
+        <br>
+        {% endif %}
+
+        {% if site.linkedin and site.linkedin != "" %}
+        <a href="{{ site.linkedin }}" target="_blank">
+          LinkedIn
+        </a>
+        <br>
+        {% endif %}
+
+        <a href="https://github.com/shian-chang-econ" target="_blank">
+          GitHub
+        </a>
+
+      </p>
+
+    </header>
+
+    <section>
+
+      {{ content }}
+
+    </section>
+
+  </div>
+
+  <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+
+</body>
+
+</html>
