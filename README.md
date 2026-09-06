@@ -45,7 +45,7 @@ with <a href="https://sites.google.com/site/natsukiarai25/home?authuser=0" targe
 <summary markdown="span"><b>Introductory Economics: Gender, Majors, and Future Performance</b>
 [<i>click for abstract</i>]
 <br />
-with <a href="https://sites.google.com/site/natsukiarai25/home?authuser=0" target="_blank">Natsuki Arai</a> and <a href="https://ib.nccu.edu.tw/en/Members/BIING-SHEN-KUO-45627858" target="_blank">Biing-Shen Kuo <br />
+with <a href="https://sites.google.com/site/natsukiarai25/home?authuser=0" target="_blank">Natsuki Arai</a> and <a href="https://ib.nccu.edu.tw/en/Members/BIING-SHEN-KUO-45627858" target="_blank">Biing-Shen Kuo</a> <br />
 &ndash; <b><i>Taiwan Economic Forecast and Policy</i></b>, 2024, 54:2, 45–68
 </summary>
 
