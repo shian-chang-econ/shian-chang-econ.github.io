@@ -64,7 +64,6 @@ with <a href="https://sites.google.com/site/natsukiarai25/home?authuser=0" targe
 <summary markdown="span"><b>Mortgage Credit Expansion and Housing Purchase Prices: Evidence from Borrower-Level Administrative Data in Taiwan</b>
 [<i>click for abstract</i>]
 <br />
-<br />
 with <a href="https://sites.google.com/view/cpelab/" target="_blank">Tzu-Ting Yang</a> <br />
 </summary>
 
@@ -79,7 +78,6 @@ with <a href="https://sites.google.com/view/cpelab/" target="_blank">Tzu-Ting Ya
 <details>
 <summary markdown="span"><b>The Effects of Loan-to-Value Limits on Mortgage Lending and Housing Purchase: Evidence from Taiwan </b>
 [<i>click for abstract</i>]
-<br />
 <br />
 with <a href="https://sites.google.com/view/cpelab/" target="_blank">Tzu-Ting Yang</a> <br />
 </summary>
