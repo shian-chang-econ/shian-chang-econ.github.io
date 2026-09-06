@@ -61,6 +61,3 @@ with Natsuki Arai
 
 ---
 
-## Teaching
-
-Teaching information will be added here.
