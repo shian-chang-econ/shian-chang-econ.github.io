@@ -8,7 +8,7 @@ My research interests include **Monetary Policy**, **Empirical Macroeconomics**,
 
 ## Curriculum Vitae
 
-My curriculum vitae is available [here](/Shian_Chang_CV.pdf).
+[Curriculum Vitae (PDF)](/Shian_Chang_CV.pdf)
 
 ---
 
