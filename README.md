@@ -28,7 +28,7 @@ Monetary Policy, Empirical Macroeconomics, Applied Microeconomics, and Public Ec
 <summary markdown="span"><b>US Credit Spillovers to Small Open Economies: A Proxy-VAR Approach</b>
 [<i>click for abstract</i>]
 <br />
-with Natsuki Arai <br />
+with <a href="https://sites.google.com/site/natsukiarai25/home?authuser=0" target="_blank">Natsuki Arai</a> <br />
 &ndash; <b><i>Hitotsubashi Journal of Economics</i></b>, 66 (1), pp. 46–60, 2025
 </summary>
 
