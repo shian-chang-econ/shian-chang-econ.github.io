@@ -22,7 +22,7 @@ Monetary Policy, Empirical Macroeconomics, Applied Microeconomics, and Public Ec
 
 ---
 
-### Published and Accepted Papers
+### Publications
 
 <details>
 <summary markdown="span"><b>US Credit Spillovers to Small Open Economies: A Proxy-VAR Approach</b>
