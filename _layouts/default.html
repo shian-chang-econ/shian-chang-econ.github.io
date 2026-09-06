@@ -11,7 +11,6 @@
 
   <link rel="stylesheet"
         href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-
 </head>
 
 <body>
@@ -21,7 +20,7 @@
     <header>
 
       <h1>
-        <a href="{{ '/' | absolute_url }}">
+        <a href="{{ '/' | relative_url }}">
           {{ site.title }}
         </a>
       </h1>
@@ -32,48 +31,49 @@
            style="width:230px; max-width:100%;">
       {% endif %}
 
-      <p>{{ site.description }}</p>
-
       <p>
-
-        {% if site.affiliation and site.affiliation != "" %}
-        <strong>Affiliation</strong><br>
-        {{ site.affiliation }}<br>
-        {% endif %}
-
-        {% if site.department and site.department != "" %}
+        <strong>{{ site.position }}</strong><br>
         {{ site.department }}<br>
-        {% endif %}
-
+        {{ site.affiliation }}
       </p>
 
-      {% if site.email and site.email != "" %}
+      {% if site.email %}
       <p>
         <strong>E-mail</strong><br>
-        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        <a href="mailto:{{ site.email }}">
+          {{ site.email }}
+        </a>
       </p>
       {% endif %}
 
       <p>
         <strong>Links</strong><br>
 
-        {% if site.google_scholar and site.google_scholar != "" %}
-        <a href="{{ site.google_scholar }}" target="_blank">
+        {% if site.google_scholar %}
+        <a href="{{ site.google_scholar }}"
+           target="_blank"
+           rel="noopener noreferrer">
           Google Scholar
         </a>
         <br>
         {% endif %}
 
-        {% if site.linkedin and site.linkedin != "" %}
-        <a href="{{ site.linkedin }}" target="_blank">
+        {% if site.linkedin %}
+        <a href="{{ site.linkedin }}"
+           target="_blank"
+           rel="noopener noreferrer">
           LinkedIn
         </a>
         <br>
         {% endif %}
 
-        <a href="https://github.com/shian-chang-econ" target="_blank">
+        {% if site.github_url %}
+        <a href="{{ site.github_url }}"
+           target="_blank"
+           rel="noopener noreferrer">
           GitHub
         </a>
+        {% endif %}
 
       </p>
 
