@@ -61,10 +61,11 @@ with <a href="https://sites.google.com/site/natsukiarai25/home?authuser=0" targe
 ### Working Papers
 
 <details>
-<summary markdown="span"><b>Mortgage Credit Expansion and Housing Purchase Prices: Evidence from Borrower-Level Administrative Data in Taiwan</b>
+<summary markdown="span"><b>The Effect of Credit Expansion on Housing Purchase Prices: Borrower-Level Evidence from a Preferential Mortgage Reform</b>
 [<i>click for abstract</i>]
 <br />
 with <a href="https://sites.google.com/view/cpelab/" target="_blank">Tzu-Ting Yang</a> <br />
+  &ndash; Reject and Resubmit, <b><i>Journal of Financial and Quantitative Analysis</i></b>
 </summary>
 
 | **Abstract** |
