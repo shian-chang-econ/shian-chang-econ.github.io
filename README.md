@@ -73,7 +73,7 @@ with <a href="https://sites.google.com/view/cpelab/" target="_blank">Tzu-Ting Ya
 | This paper studies how expanding mortgage credit affects housing purchases, exploiting Taiwan’s 2023 reform of the Youth Preferential Housing Loan program, which raised the maximum loan limit by 25%. Using matched administrative data and a difference-in-differences design, we find treated borrowers increased loan amounts by 13.4% and purchase prices by 17.9%, implying a demand elasticity of 1.34. The reform also shifted purchases toward premium urban locations and disproportionately benefited credit-constrained borrowers—women, non-college-educated individuals, and younger buyers—enabling them to obtain larger loans and purchase more expensive homes.  |
 
 </details>
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7152538" target="_blank">Working Paper</a> &nbsp;
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7164978" target="_blank">Working Paper</a> &nbsp;
 
 
 <details>
