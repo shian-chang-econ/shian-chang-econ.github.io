@@ -92,7 +92,7 @@ with <a href="https://sites.google.com/view/cpelab/" target="_blank">Tzu-Ting Ya
 
 
 <details>
-<summary markdown="span"><b>Dispersion of FOMC Policymakers' Views: Evidence from the New Individual Economic Projections</b>
+<summary markdown="span"><b>Dispersion of FOMC Policymakers: Evidence from Individual Economic Projections with Identities</b>
 [<i>click for abstract</i>]
 <br />
 with <a href="https://sites.google.com/site/natsukiarai25/home?authuser=0" target="_blank">Natsuki Arai</a> <br />
