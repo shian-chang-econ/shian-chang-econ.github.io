@@ -4,7 +4,7 @@
 
 I am a Ph.D student at the Department of Economics, National Taiwan University.
 
-My research interests include **Monetary Policy**, **Empirical Macroeconomics**, **Applied Microeconomics**, and **Public Economics**. In particular, I study macroeconomic issues using micro-level data. My work covers two key areas: (1) the effects of monetary policy, including both domestic and foreign spillovers and their distributional impacts; and (2) the effects of macroprudential policies, such as loan-to-value (LTV) restrictions, interest-only mortgage bans, and capital gains taxation.
+My research interests include **Empirical Macroeconomics**, **Monetary Policy**, **Applied Microeconomics**, and **Public Economics**. In particular, I study macroeconomic issues using micro-level data. My work covers two key areas: (1) the effects of monetary policy, including both domestic and foreign spillovers and their distributional impacts; and (2) the effects of macroprudential policies, such as loan-to-value (LTV) restrictions, interest-only mortgage bans, and capital gains taxation.
 
 ---
 
@@ -18,7 +18,7 @@ My research interests include **Monetary Policy**, **Empirical Macroeconomics**,
 
 ### Research Interests
 
-Monetary Policy, Empirical Macroeconomics, Applied Microeconomics, and Public Economics.
+Empirical Macroeconomics, Monetary Policy, Applied Microeconomics, and Public Economics.
 
 ---
 
