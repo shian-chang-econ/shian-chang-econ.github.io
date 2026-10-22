@@ -33,22 +33,7 @@ with <a href="https://sites.google.com/view/cpelab/" target="_blank">Tzu-Ting Ya
 
 | **Abstract** |
 | :--- |
-| This paper examines how firms' responses to monetary policy shape its
-distributional effects through wage and dividend payments. Combining
-high-frequency monetary policy shocks with administrative tax records
-from Taiwan for 2004--2023 that link firms to their workers and
-shareholders, we find that expansionary monetary policy raises firm
-revenue and increases payments to both workers and shareholders, but
-dividends respond far more strongly than wages. The dividend response is
-stronger among firms with greater reliance on short-term borrowing,
-consistent with a credit channel in which monetary easing relaxes
-financing constraints and allows firms to raise shareholder payouts. These
-firm-level responses translate into unequal income gains: the total
-income gain of the top 1% is about 2.3 times that of the bottom decile,
-and dividends account for about two-thirds of this gain. Monetary easing
-in Taiwan thus disproportionately benefits top earners, primarily
-through dividend income. |
-
+| This paper examines how firms' responses to monetary policy shape its distributional effects through wage and dividend payments. Combining high-frequency monetary policy shocks with administrative tax records from Taiwan for 2004--2023 that link firms to their workers and shareholders, we find that expansionary monetary policy raises firm revenue and increases payments to both workers and shareholders, but dividends respond far more strongly than wages. The dividend response is stronger among firms with greater reliance on short-term borrowing, consistent with a credit channel in which monetary easing relaxes financing constraints and allows firms to raise shareholder payouts. These firm-level responses translate into unequal income gains: the total income gain of the top 1% is about 2.3 times that of the bottom decile, and dividends account for about two-thirds of this gain. Monetary easing in Taiwan thus disproportionately benefits top earners, primarily through dividend income. |
 </details>
 <!--
 <a href="https://www.dropbox.com/scl/fi/wa2subk9rg5orwuyq8bwe/3_JMP_Monetary_Policy_Income_Inequality.pdf?rlkey=g9wpoa81826b1ku3b92ceqk1e&dl=0" target="_blank">Working Paper</a> &nbsp;
