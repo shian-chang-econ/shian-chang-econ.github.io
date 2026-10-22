@@ -14,7 +14,7 @@ My research interests include **Empirical Macroeconomics**, **Monetary Policy**,
 
 ---
 
-## Research
+<!-- ## Research -->
 
 ### Research Interests
 
@@ -33,7 +33,7 @@ with <a href="https://sites.google.com/view/cpelab/" target="_blank">Tzu-Ting Ya
 
 | **Abstract** |
 | :--- |
-| This paper examines how firms' responses to monetary policy shape its distributional effects through wage and dividend payments. Combining high-frequency monetary policy shocks with administrative tax records from Taiwan for 2004--2023 that link firms to their workers and shareholders, we find that expansionary monetary policy raises firm revenue and increases payments to both workers and shareholders, but dividends respond far more strongly than wages. The dividend response is stronger among firms with greater reliance on short-term borrowing, consistent with a credit channel in which monetary easing relaxes financing constraints and allows firms to raise shareholder payouts. These firm-level responses translate into unequal income gains: the total income gain of the top 1% is about 2.3 times that of the bottom decile, and dividends account for about two-thirds of this gain. Monetary easing in Taiwan thus disproportionately benefits top earners, primarily through dividend income. |
+| This paper examines how monetary policy affects firms’ wage and dividend payments and how wage and dividend income gains are distributed across individuals. Combining high-frequency monetary policy shocks with administrative tax records from Taiwan for 2004--2023 that link firms to their workers and shareholders, we find that expansionary monetary policy increases firms’ payments to both workers and shareholders, but dividends per shareholder respond far more strongly than wages per employee, with the dividend response nearly ten times as large after one year. The dividend response is stronger among firms with greater exposure to short-term borrowing, consistent with a credit channel of monetary policy. At the individual level, income gains among the workers and shareholders of these firms are unevenly distributed. The total income gain of the top 1% is about 2.3 times that of the bottom decile, and dividends account for about two-thirds of the top 1%’s gain. Monetary easing thus disproportionately benefits individuals at the top of the income distribution, primarily through dividend income. |
 
 </details>
 
