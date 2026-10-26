@@ -41,7 +41,6 @@ with <a href="https://sites.google.com/view/cpelab/" target="_blank">Tzu-Ting Ya
 <a href="https://www.dropbox.com/scl/fi/wa2subk9rg5orwuyq8bwe/3_JMP_Monetary_Policy_Income_Inequality.pdf?rlkey=g9wpoa81826b1ku3b92ceqk1e&dl=0" target="_blank">Working Paper</a> &nbsp;
 
 
-<br />
 
 ---
 
